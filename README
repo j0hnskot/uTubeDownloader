@@ -1,1 +1,27 @@
-dsfs
+uTubeDownloader v0.4
+---------------------------------
+uTubeDownloader is a simple linux application that uses the Youtube-dl to download videos or playlists from Youtube.com in the quality of your choice!
+
+Instructions:
+
+Extract the file wherever you want (all files must be together as they are in the archive), double-click the file uTubeDownloader and select "Run".
+
+In the empty field write the link of your video (or playlist and tick the playlist checkbox),choose the quality you want and press the button "Download".
+
+All the files are saved in the folder you extracted the uTubeDownloader archive.
+
+By choosing the "Only sound" option you can convert the videos you downloaded into a sound file (.ogg)*
+
+By choosing the "Speed Limit" option and entering the amount of kilobytes you want you can limit your download speed to the entered amount of kilobytes/s.
+
+You can now write the name of a user you like in the empty field and choose the "Channel" box to download all of his/her uploads in the channel.
+
+With the "I feel Lucky" option, known from the google search engine, you can download the first result in youtube that is relative with what you write in the empty field. 
+
+*ffmpeg must be installed to convert the file.To install it from a terminal write:
+    sudo apt-get install ffmpeg
+
+uTubeDownloader is in a alpha state so expect many bugs.
+If you find anything wrong in the translation or any bug, inform me at j0hnskot@gmail.com
+
+New feautures will be added soon!
