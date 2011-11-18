@@ -1,0 +1,32 @@
+--------------------------------
+uTubeDownloader v0.4
+--------------------------------
+Changes :
+    You can now download a full channel
+    Added the "I feel Lucky" function
+
+--------------------------------
+uTubeDownloader v0.3
+--------------------------------
+Changes:
+    Added a choice of speed limitation
+    You can convert videos to sound files (.ogg)
+
+
+
+
+uTubeDownloader v0.2
+--------------------------------
+Changes:
+	
+    You can now download full playlists.
+    Progress bar has been added.
+    Removal of the "Update" button*
+    
+    
+Bug fixes:
+   Fixed a bug that caused the downloader to quit without a reason.
+
+*Some changes must be done in the youtube-dl file so it can work correct with youtube-dl so you will no longer be able to directly update the youtube-dl but i'll release a new version everytime there is a need for an update.
+
+
